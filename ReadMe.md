@@ -1,4 +1,4 @@
 ## Unnamed mathematical language
 
-An unnabmed mathematical programming language, still in major WIP.
+An unnamed mathematical programming language, still in major WIP.
 Transpiles to C.
